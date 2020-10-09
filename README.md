@@ -1,6 +1,6 @@
 # OOPs_Concepts_in_Python
 
-***The important things in OOP(Object Oriented Programming)'s in Python language :***
+***The main principles in OOP(Object Oriented Programming)'s in Python language :***
 
    * **Class**
         * *Its a Blueprint which is followed by objects*
