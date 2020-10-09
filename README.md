@@ -9,7 +9,7 @@
    * **Object**
         * *Its an instance of a class*
         * *When we define a class, it needs to create an object to allocate the memory.*
-        * *it may be a real world objects like pen,car,mouse,keyboard,humans etc *
+        * *it may be a real world objects like pen,car,mouse,keyboard,humans etc*
         
    * **Abstraction**
    - Encapsulation
