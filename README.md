@@ -27,8 +27,13 @@
            
   * **Inheritance**
         * *derived class inherits the properties from base class*
-        * *Base class - Parent class , Derived class - child class*
-   - Polymorphism
+        * *Base class-Parent class , Derived class-child class*
+        * *It provides the re-usability of the code*
+        
+   * **Polymorphism**
+        * *Polymorphism contains two words "poly" and "morphs". Poly means many, and morph means shape*
+        * *implementing the same method in different context*
+            > Ex: '+' Arithematic addition , '+' string concatination
    
 
    
