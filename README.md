@@ -25,7 +25,7 @@
            - *Protected:* *Datas can be accessed by only class or class inherited* 
            - *Private:* *Datas can be accessed by only by the class*
            
-  * **Inheritance**
+   * **Inheritance**
         * *derived class inherits the properties from base class*
         * *Base class-Parent class , Derived class-child class*
         * *It provides the re-usability of the code*
