@@ -19,7 +19,9 @@
             > Ex: we do install .exe application that is called essential data , but we dont care about implementation data that is we dont bother about the background data/process.
             
    * **Encapsulation**
-        * **
+        * *Binding/wrapping up the data & functions into a single entity*
+        * *To achieve the encapsulation we do use access specifier:-*
+              * *Public:* *Accessed by any function in any class*
    - Inheritance 
    - Polymorphism
    
@@ -32,7 +34,7 @@
 
    
 
-   ### **Class Variable Explanation*** :- ***Program_1.py***
+   ### **Class Variable Explanation** :- ***Program_1.py***
   
   *The Program_1.py will explains us about the declaration of class variable & how we can call it within a class ,
     and also the program will shows the company's employee email id and employee salary , annual appraisal value.*
