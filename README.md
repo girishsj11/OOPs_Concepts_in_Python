@@ -1,5 +1,17 @@
 # OOPs_Concepts_in_Python
-Explaination about the OOPs concepts which supports in python language.
+
+***The important things in OOP(Object Oriented Programming)'s in Python language :***
+
+   - Class
+   - Object
+   - Abstraction
+   - Encapsulation
+   - Inheritance 
+   - Polymorphism
+   
+
+
+   
 
    ### ***Class Variable Explanation*** :- ***Program_1.py***
   
