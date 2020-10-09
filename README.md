@@ -36,14 +36,6 @@
             > Ex: '+' Arithematic addition , '+' string concatination
    
 
-   
-         
-         
-   
-
-
-   
-
    ### **Class Variable Explanation** :- ***Program_1.py***
   
   *The Program_1.py will explains us about the declaration of class variable & how we can call it within a class ,
