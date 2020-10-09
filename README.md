@@ -2,17 +2,21 @@
 
 ***The important things in OOP(Object Oriented Programming)'s in Python language :***
 
-   - Class
-   - Object
-   - Abstraction
+   * **Class**
+        * *Its a Blueprint which is followed by objects*
+        * *It is logical structure with some specific attributes and methods*
+        
+   * **Object**
+        * *Its an instance of a class*
+        * *When we define a class, it needs to create an object to allocate the memory.*
+        * *it may be a real world objects like pen,car,mouse,keyboard,humans etc *
+        
+   * **Abstraction**
    - Encapsulation
    - Inheritance 
    - Polymorphism
    
-   * **Class**
-   
-        * *Its a Blueprint which is followed by objects*
-        * *It is logical structure with behaviour*
+
    
          
          
