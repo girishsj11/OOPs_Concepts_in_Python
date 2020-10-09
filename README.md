@@ -21,7 +21,9 @@
    * **Encapsulation**
         * *Binding/wrapping up the data & functions into a single entity*
         * *To achieve the encapsulation we do use access specifier:*
-           - *Public:* *Accessed by any function in any class*
+           - *Public:* *Datas can be accessed by any function in any class*
+           - *Protected:* *Datas can be accessed by only class or class inherited* 
+           - *Private:* *Datas can be accessed by only by the class*
    - Inheritance 
    - Polymorphism
    
