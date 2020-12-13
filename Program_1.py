@@ -11,6 +11,14 @@ class Employees:
     company = "@company.com"
     
     def __init__(self,first_name,last_name,middle_name,monthly_salary):
+        '''
+        "__init__" is a reseved method in python classes. It is known as a constructor in object oriented concepts. 
+        This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
+        The "__init__" method of a class is used to initialize new objects, not create them. As such, it should not return any value. 
+        Returning None is correct in the sense that no runtime error will occur, but it suggests that the returned value is meaningful, which it is not.
+        
+        Usage of "self" in class to access the methods and attributes.
+        '''
         self.fname = first_name
         self.mname = middle_name
         self.lname = last_name
