@@ -33,7 +33,7 @@ class Test:
     
 t = Test()
 print("Class variable beofre inc() method calls : ",Test.class_var)
-t.inc() #t.inc(t)
+t.inc() #t.inc(t) or instance.inc(instance)
 print("Class variable After inc() method calls : ",Test.class_var)
 
 ###################################################################################################
@@ -79,5 +79,5 @@ class Test:
 
 t = Test()
 print("Class variable beofre inc() method calls : ",Test.class_var)
-t.inc() #t.ins(Test)
+t.inc() #t.inc(Test) or instance.inc(class)
 print("Class variable After inc() method calls : ",Test.class_var)
