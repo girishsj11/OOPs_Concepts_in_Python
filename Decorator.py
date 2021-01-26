@@ -33,7 +33,7 @@ class Test:
     
 t = Test()
 print("Class variable beofre inc() method calls : ",Test.class_var)
-t.inc()
+t.inc() #t.inc(t)
 print("Class variable After inc() method calls : ",Test.class_var)
 
 ###################################################################################################
@@ -73,10 +73,11 @@ class Test:
   
   @classmethod
   def inc(self):
+    #Making the inc() method as a class method itself like class variable
     self.class_var = self.class_var+10
     print("class variable increment : ",self.class_var)
 
 t = Test()
 print("Class variable beofre inc() method calls : ",Test.class_var)
-t.inc()
+t.inc() #t.ins(Test)
 print("Class variable After inc() method calls : ",Test.class_var)
